@@ -17,7 +17,7 @@
         <!-- This page title -->
     </h1>
     <p>
-        <!-- I love zaralab text -->
+        <!-- I love zaralab text + link to zaralab -->
     </p>
     <p>
         I know about PHP variables:<br />
